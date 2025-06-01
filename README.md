@@ -9,6 +9,11 @@ This project is an experimental iOS application utilizing Apple’s MLX framewor
 *   **Apple MLX:**  [https://github.com/ml-explore/mlx](https://github.com/ml-explore/mlx) -  A framework for building machine learning applications on Apple Silicon.
 *   **MarkdownUI:** [https://github.com/gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - A Markdown rendering library for Swift.
 
+## System Requirements
+
+*   **Hardware recommendation:** iPhone 15 Pro or later / iPad with M1 or later
+*   8GB or more memory
+
 ## Current Status
 
 Experimental - This project is under development and subject to change.
@@ -24,4 +29,3 @@ Clone this repository and build in Xcode. **You have to run this app in your ACT
 ## License
 
 This project is licensed under the Apache License 2.0.  See [LICENSE](LICENSE) for details.
-
